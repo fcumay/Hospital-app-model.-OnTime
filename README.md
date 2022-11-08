@@ -76,3 +76,8 @@
 
 ![Entity relationship diagram](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/8c772e1166aca0e84816f16fa44625a63876143d/diagrams/ER.png)
 
+## UML class diagrams:
+### Базовая
+![UML_class_base](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/4f4f09a61111c7818edfcc60f50c0e51a3f42135/diagrams/uml_class_base.png)
+
+
