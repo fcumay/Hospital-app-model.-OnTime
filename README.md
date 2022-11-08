@@ -76,6 +76,10 @@
 
 ![Entity relationship diagram](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/8c772e1166aca0e84816f16fa44625a63876143d/diagrams/ER.png)
 
+## BPMN diagrams:
+
+![BPMN diagram](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/f0eb9d1169026ff911b1a2f4c9fc179b2829e196/diagrams/bpmn_diagram.png)
+
 ## UML class diagrams
 - Базовая:
 
