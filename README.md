@@ -72,5 +72,6 @@
         
 -   Как [пациент](#пользователь-как-пациент) я хочу иметь возможность быстро вызвать лечащего врача, чтобы оперативно получить помощь при резком ухудшении самочувствия.
 
+##Entity relationship diagram:
 ![Entity relationship diagram](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/8c772e1166aca0e84816f16fa44625a63876143d/diagrams/ER.png)
 
