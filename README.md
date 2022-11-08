@@ -90,8 +90,15 @@
 ![uml_class_ext2](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/9a8036dc1869e68a600be4a7790e03134d8ca192/diagrams/uml_class_ext2.png)
 
 - При нажатии на иконку «Переводчик», осуществляется переход на новый экран. Открывается переводчик, пользователь может ввести текст на удобном ему языке и перевести его на русский:
-- 
+
 ![uml_class_ext3](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/9a8036dc1869e68a600be4a7790e03134d8ca192/diagrams/uml_class_ext3.png)
 
 ## Переходы между окнами
 ![operation_logic](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/a5d610d5b26a7cb68b80459b48846b0f4a249d66/diagrams/operation_logic.png)
+
+## Макет интерфейса
+![ui_1](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/5a82a801ce330493579b3be3bce7312c132cdd55/diagrams/ui_1.jpg)
+![ui_2](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/5a82a801ce330493579b3be3bce7312c132cdd55/diagrams/ui_2.jpg)
+![ui_3](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/5a82a801ce330493579b3be3bce7312c132cdd55/diagrams/ui_3.jpg)
+
+
