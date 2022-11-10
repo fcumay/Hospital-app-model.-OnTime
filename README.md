@@ -88,7 +88,7 @@
 ## UML class diagrams:
 - Базовая:
 
-![uml_class_base](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/d27c3d20983a408b6554b79ef0b2b8680345d9b1/diagrams/uml_base.png)
+
 
 - После входа пациент может выбрать английский язык интерфейса:
 
@@ -96,11 +96,11 @@
 
 - При появлении нового анализа/процедуры приходит уведомление:
 
-![uml_class_ext2](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/9a8036dc1869e68a600be4a7790e03134d8ca192/diagrams/uml_class_ext2.png)
+
 
 - При нажатии на иконку «Переводчик», осуществляется переход на новый экран. Открывается переводчик, пользователь может ввести текст на удобном ему языке и перевести его на русский:
 
-![uml_class_ext3](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/0412cd86569c0b333ba72a46640e37a7a5125cba/diagrams/uml_class_ext3.png)
+
 
 
 ## State diagram:
