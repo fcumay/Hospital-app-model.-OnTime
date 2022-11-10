@@ -98,8 +98,8 @@
 ![uml_class_ext3](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/0412cd86569c0b333ba72a46640e37a7a5125cba/diagrams/uml_class_ext3.png)
 
 
-## Переходы между окнами
-![operation_logic](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/a5d610d5b26a7cb68b80459b48846b0f4a249d66/diagrams/operation_logic.png)
+## Диаграмма состояний перехода между окнами
+![uml_state](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/f0f08bfd59e449d5408f795a640947d6578fad95/diagrams/uml_state.png)
 
 ## Макет интерфейса
 ![ui_1](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/5a82a801ce330493579b3be3bce7312c132cdd55/diagrams/ui_1.jpg)
