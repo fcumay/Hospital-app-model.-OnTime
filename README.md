@@ -85,6 +85,16 @@
 ![Use_case_pacient](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/c7b9dbce50e039839b9ac0f76f2ca7957a521e2d/diagrams/usecase_pacient.png)
 ![Use_case_doctor](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/c7b9dbce50e039839b9ac0f76f2ca7957a521e2d/diagrams/usecase_doctor.png)
 
+## Sequence diagrams:
+
+![sequence_doc_analysis](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/7b37015a513d864d2ce49487caae42b4d997797d/diagrams/sequence_doc_analysis.png)
+![sequence_doc_diagnosis](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/7b37015a513d864d2ce49487caae42b4d997797d/diagrams/sequence_doc_diagnosis.png)
+![sequence_doc_status](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/7b37015a513d864d2ce49487caae42b4d997797d/diagrams/sequence_doc_status.png)
+![sequence_pac_analysis](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/7b37015a513d864d2ce49487caae42b4d997797d/diagrams/sequence_pac_analysis.png)
+![sequence_pac_diagnosis](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/7b37015a513d864d2ce49487caae42b4d997797d/diagrams/sequence_pac_diagnosis.png)
+![sequence_pac_schedule](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/7b37015a513d864d2ce49487caae42b4d997797d/diagrams/sequence_pac_schedule.png)
+![sequence_sos](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/7b37015a513d864d2ce49487caae42b4d997797d/diagrams/sequence_sos.png)
+
 ## UML class diagrams:
 - Базовая:
 
