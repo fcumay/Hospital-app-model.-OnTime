@@ -108,7 +108,7 @@
 
 - После входа пациент может выбрать английский язык интерфейса:
 
-![uml_class_exxt1](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/053fc5f0f524053ec8593154de33c1403e9f0dd6/diagrams/uml_class_exxt1.png)
+![uml_class_exxt1](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/35d7c29f49988d0940da730de52ec76bfb278d7e/diagrams/uml_class_ext1_diagram_hospital.png)
 
 - При появлении нового анализа/процедуры приходит уведомление:
 
