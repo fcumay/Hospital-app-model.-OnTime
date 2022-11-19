@@ -104,7 +104,7 @@
 ## UML class diagrams:
 - Базовая:
 
-![uml_class_base_diagram](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/6d4b88338d67109f5238689eed0c9f32b3bd173c/diagrams/uml_class_base_diagram_hospital.png)
+![uml_class_base_diagram](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/7f82d4895dfbd6983fe3d49dd25c79c8b8b09ab9/diagrams/uml_class_base_diagram_hospital1.png)
 
 - После входа пациент может выбрать английский язык интерфейса:
 
