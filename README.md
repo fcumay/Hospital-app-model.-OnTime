@@ -116,7 +116,7 @@
 
 - При нажатии на иконку «Переводчик», осуществляется переход на новый экран. Открывается переводчик, пользователь может ввести текст на удобном ему языке и перевести его на русский:
 
-![uml_class_ext3_diagram](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/6e4334fc7d602bd67d531552aaf45a7e49b748e5/diagrams/uml_class_ext3_diagram.png)
+![uml_class_ext3_diagram](https://github.com/fcumay/Hospital-app-model.-OnTime/blob/dab280d159d1b56cdb9da077c918d752547b0722/diagrams/uml_class_ext3_diagram_hospital1.png)
 
 
 ## State diagram:
